@@ -1,12 +1,7 @@
----
-title: "Claude code/Codex+Seedance AI视频：从一个想法到成片的全流程"
-author: "@EianLu"
-published: "2026-11-05T12:20:06.000Z"
-source: "https://x.com/EianLu/status/2118317430665613741"
-exported: "2026-11-06 05:39:13"
-extractor: "defuddle xarticle"
-images: 7 张已本地化
----
+# Claude code/Codex+Seedance AI视频：从一个想法到成片的全流程
+
+> 作者 @EianLu · 原文 <https://x.com/EianLu/status/2118317430665613741> · 2026-11-05
+
 
 ![图像](attachments/001-HWW7pKDbAAAVuuR.jpg)
 

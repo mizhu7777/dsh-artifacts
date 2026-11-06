@@ -3,16 +3,23 @@
   "artifacts": {
     "claude-code-codex-seedance-ai-xwgiov": {
       "id": "claude-code-codex-seedance-ai-xwgiov",
-      "title": "Claude code + Codex + Seedance AI 视频全流程",
+      "title": "Claude code/Codex+Seedance AI视频：从一个想法到成片的全流程",
       "kind": "markdown",
       "createdAt": "2026-11-06T12:35:25.260Z",
-      "updatedAt": "2026-11-06T12:35:25.260Z",
-      "rev": 1,
+      "updatedAt": "2026-11-06T12:52:13.875Z",
+      "rev": 2,
       "files": [
+        "attachments/001-HWW7pKDbAAAVuuR.jpg",
+        "attachments/002-HWXFYdDbYAACfNO.jpg",
+        "attachments/003-HWXFLPLbkAAguJL.jpg",
+        "attachments/004-HWXFAdZagAAo9yK.jpg",
+        "attachments/005-HWXE2wXbMAEphP7.jpg",
+        "attachments/006-HWXEh3SaEAAnKYl.jpg",
+        "attachments/007-HWXELV2aUAEyvsc.jpg",
         "index.html",
         "source.md"
       ],
-      "description": "端到端链路验证：把「Claude code + Codex + Seedance AI 视频：从一个想法到成片的全流程」这篇 Markdown 发布成 GitHub Pages 网页，验证令牌鉴权、仓库写入与 Pages 部署整条链路。"
+      "description": "《Claude code/Codex + Seedance AI 视频：从一个想法到成片的全流程》：作者 @EianLu，讲清 Claude code、Codex、Seedance 三模型协作做 AI 视频的完整流程与踩坑要点，含 7 张实操截图。"
     }
   },
   "tombstones": []
