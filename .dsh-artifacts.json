@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "artifacts": {
+    "claude-code-codex-seedance-ai-xwgiov": {
+      "id": "claude-code-codex-seedance-ai-xwgiov",
+      "title": "Claude code + Codex + Seedance AI 视频全流程",
+      "kind": "markdown",
+      "createdAt": "2026-11-06T12:35:25.260Z",
+      "updatedAt": "2026-11-06T12:35:25.260Z",
+      "rev": 1,
+      "files": [
+        "index.html",
+        "source.md"
+      ],
+      "description": "端到端链路验证：把「Claude code + Codex + Seedance AI 视频：从一个想法到成片的全流程」这篇 Markdown 发布成 GitHub Pages 网页，验证令牌鉴权、仓库写入与 Pages 部署整条链路。"
+    }
+  },
+  "tombstones": []
+}
